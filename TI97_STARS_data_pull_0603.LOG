@@ -1,31 +1,3 @@
-3047  DM 'CLEAR LOG';
-3048
-3049  /********************************************************************************
-3049! ************/
-3050  /*  CLIENT NAME:    NAVY FINANCIAL MANAGEMENT OPERATIONS
-3050!            */
-3051  /*                  DEPARTMENT OF THE NAVY (DoN), DEPARTMENT OF DEFENSE (DoD)
-3051!            */
-3052  /*
-3052!            */
-3053  /*  PROJECT:        NAVY FINANCIAL MANAGEMENT OPERATIONS (FMO-4)
-3053!            */
-3054  /*
-3054!            */
-3055  /*  PROGRAM NAME:   TI97_STARS_data_pull.sas
-3055!            */
-3056  /*
-3056!            */
-3057  /*  PURPOSE:        THE PURPOSE OF THIS PROGRAM IS TO PULL ALL QUARTERS OF THE FISCAL YEAR
-3057! STARS_FL DATA
-3058                      AND APPLY SPECIFIED LOGIC
-3059  /*
-3059!            */
-3060  /********************************************************************************
-3060! ************/
-3061  /*  PROGRAMMER:     TARAESA TONEY                   
-3061!                */
-3062  /********************************************************************************
 3069  /********************************************************************************
 3069! ************/
 3070  /*  RUN TIME:       APPROX 1 HOUR
