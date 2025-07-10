@@ -8,7 +8,7 @@ DM 'CLEAR LOG';
 /*   																						*/
 /*  PROGRAM NAME:   comfisc Reconciliation.sas						  						*/
 /*																							*/
-/*  PURPOSE:		THE PURPOSE OF THIS PROGRAM IS TO TRACE THE JAN&FEB FY13 comfisc			*/
+/*  PURPOSE:		THE PURPOSE OF THIS PROGRAM IS TO TRACE THE JAN&FEB Fiscal Year comfisc			*/
 /*					CVP FEEDER SYSTEM TRANSACTIONS TO STARS_FL					   			*/
 /*																				  			*/
 /********************************************************************************************/
