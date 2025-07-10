@@ -16,7 +16,7 @@
 3055!            */
 3056  /*
 3056!            */
-3057  /*  PURPOSE:        THE PURPOSE OF THIS PROGRAM IS TO PULL ALL QUARTERS OF FY12
+3057  /*  PURPOSE:        THE PURPOSE OF THIS PROGRAM IS TO PULL ALL QUARTERS OF THE FISCAL YEAR
 3057! STARS_FL DATA
 3058                      AND APPLY SPECIFIED LOGIC
 3059  /*
@@ -26,16 +26,6 @@
 3061  /*  PROGRAMMER:     TARAESA TONEY                   
 3061!                */
 3062  /********************************************************************************
-3062! ************/
-3063  /*  MODIFIED:                                             */
-3064  /*  CHANGES MADE:   ADDED CODE FOR ROOT CAUSE ANALYSIS
-3064!            */
-3065  /*  MODIFIED:                                            */
-3066  /*  CHANGES MADE:   MODIFIED TO APPLY TO SPS
-3066!            */
-3067  /*  MODIFIED:                                                    */
-3068  /*  CHANGES MADE:   MODIFIED TO INCLUDE LINKING TO DOCUMENT NUMBER
-3068!            */
 3069  /********************************************************************************
 3069! ************/
 3070  /*  RUN TIME:       APPROX 1 HOUR
