@@ -12,13 +12,13 @@ DM 'CLEAR LOG';
 /*					CVP FEEDER SYSTEM TRANSACTIONS TO STARS_FL					   			*/
 /*																				  			*/
 /********************************************************************************************/
-/*  PROGRAMMER: 	PAUL SEEL					DATE:	2013.03.28							*/
+/*  PROGRAMMER: 	PAUL SEEL											*/
 /********************************************************************************************/
-/*  MODIFIED: 		JACOB CAREY				    DATE:   2013.04.11							*/
+/*  MODIFIED: 		JACOB CAREY				    					*/
 /*	CHANGES MADE:	ADDED CODE FOR ROOT CAUSE ANALYSIS										*/
-/*  MODIFIED: 		TARAESA TONEY			    DATE:   2013.04.XX							*/
+/*  MODIFIED: 		TARAESA TONEY			    						*/
 /*	CHANGES MADE:	MODIFIED TO APPLY TO SPS												*/
-/*  MODIFIED: 		PAUL SEEL				    DATE:   2013.05.08							*/
+/*  MODIFIED: 		PAUL SEEL				    					*/
 /*	CHANGES MADE:	MODIFIED TO INCLUDE LINKING TO DOCUMENT NUMBER							*/
 /********************************************************************************************/
 /*  RUN TIME: 		APPROX 1 HOUR															*/
