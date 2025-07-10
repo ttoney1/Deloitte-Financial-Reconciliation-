@@ -12,13 +12,13 @@
 9444  /*                  CVP FEEDER SYSTEM TRANSACTIONS TO STARS_FL                              */
 9445  /*                                                                                          */
 9446  /********************************************************************************************/
-9447  /*  PROGRAMMER:     PAUL SEEL                   DATE:   2013.03.28                          */
+9447  /*  PROGRAMMER:     PAUL SEEL                                        */
 9448  /********************************************************************************************/
-9449  /*  MODIFIED:       JACOB CAREY                 DATE:   2013.04.11                          */
+9449  /*  MODIFIED:       JACOB CAREY                                 */
 9450  /*  CHANGES MADE:   ADDED CODE FOR ROOT CAUSE ANALYSIS                                      */
-9451  /*  MODIFIED:       TARAESA TONEY               DATE:   2013.04.XX                          */
+9451  /*  MODIFIED:       TARAESA TONEY                                      */
 9452  /*  CHANGES MADE:   MODIFIED TO APPLY TO SPS                                                */
-9453  /*  MODIFIED:       PAUL SEEL                   DATE:   2013.05.08                          */
+9453  /*  MODIFIED:       PAUL SEEL                                        */
 9454  /*  CHANGES MADE:   MODIFIED TO INCLUDE LINKING TO DOCUMENT NUMBER                          */
 9455  /********************************************************************************************/
 9456  /*  RUN TIME:       APPROX 1 HOUR                                                           */
