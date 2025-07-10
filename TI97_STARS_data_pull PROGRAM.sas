@@ -8,18 +8,13 @@ DM 'CLEAR LOG';
 /*   																						*/
 /*  PROGRAM NAME:   TI97_STARS_data_pull.sas						  						*/
 /*																							*/
-/*  PURPOSE:		THE PURPOSE OF THIS PROGRAM IS TO PULL ALL QUARTERS OF FY12 STARS_FL DATA
+/*  PURPOSE:		THE PURPOSE OF THIS PROGRAM IS TO PULL ALL QUARTERS OF THE FISCAL YEAR STARS_FL DATA
 					AND APPLY SPECIFIED LOGIC
 /*																				  			*/
 /********************************************************************************************/
-/*  PROGRAMMER: 	TARAESA TONEY					DATE:	2013.05.03							*/
+/*  PROGRAMMER: 	TARAESA TONEY												*/
 /********************************************************************************************/
-/*  MODIFIED: 					    DATE:   						*/
-/*	CHANGES MADE:	ADDED CODE FOR ROOT CAUSE ANALYSIS										*/
-/*  MODIFIED: 					    DATE:   						*/
-/*	CHANGES MADE:	MODIFIED TO APPLY TO SPS												*/
-/*  MODIFIED: 						    DATE:   							*/
-/*	CHANGES MADE:	MODIFIED TO INCLUDE LINKING TO DOCUMENT NUMBER							*/
+						
 /********************************************************************************************/
 /*  RUN TIME: 		APPROX 1 HOUR															*/
 /********************************************************************************************/
